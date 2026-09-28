@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "cw": {
+      "source": {
+        "source": "github",
+        "repo": "haowjy/creative-writing-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "creative-writing-skills@cw": true
+  }
+}
